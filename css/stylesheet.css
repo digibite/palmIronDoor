@@ -1,0 +1,30 @@
+#topbar {
+    background: #1c1c1c;
+    padding: 10px 0;
+    font-size: 14px;
+    color: #9b9b9b;
+}
+
+#topbar .contact-info i {
+    font-style: normal;
+    color: #9b9b9b;
+}
+
+#topbar .contact-info i span {
+    color: white;
+}
+
+#topbar .social-links a {
+    color: #9b9b9b;
+    line-height: 0;
+    transition: 0.3s;
+    margin-left: 10px;
+}
+
+.d-md-flex {
+    display: flex !important;
+}
+
+.align-items-center {
+    align-items: center !important;
+}
